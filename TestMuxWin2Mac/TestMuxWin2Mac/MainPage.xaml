@@ -6,7 +6,7 @@
 
     <StackLayout>
         <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms Shared from Mac and Win" 
+        <Label Text="Welcome to Xamarin.Forms Shared from Mac and Win 2"  
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
     </StackLayout>
